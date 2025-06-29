@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Voice Transcriber",
+  "description": "一个简洁优雅的网页应用，可以从您的麦克风录制音频，并使用 Gemini API 实时将其转录为文本。",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
